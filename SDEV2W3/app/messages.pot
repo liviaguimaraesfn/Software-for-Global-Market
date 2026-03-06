@@ -1,0 +1,11 @@
+#: templates/index.html:40
+msgid "Present your business in a whole new way"
+msgstr ""
+
+#: templates/index.html:41
+msgid ""
+"Quickly design and customize responsive mobile-first sites with\n"
+"Bootstrap, the world’s most popular front-end open source\n"
+"toolkit!"
+msgstr ""
+
